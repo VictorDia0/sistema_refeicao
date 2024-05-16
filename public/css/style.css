@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto';
+}
+
+.text-green {
+    color: #2F9E41;
+    /* Verde */
+}
+.form-bodyy{
+    background-color: rgb(47, 158, 65);
+}
+
+.form-container{
+    background-color: rgba(255, 255, 255, 0.9);
+    max-width: 400px;
+    padding: 1rem;
+}
