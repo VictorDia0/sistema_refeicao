@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -42,16 +42,16 @@
 
                         <div class="dropdown text-end">
                             <a href="#" class="d-block link-body-emphasis text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                                <img src="https://github.com/mdo.png" alt="mdo" width="32" height="32" class="rounded-circle">
+                                <img src="/icons/user.svg" alt="mdo" width="32" height="32" class="rounded-circle">
                             </a>
                             <ul class="dropdown-menu text-small">
                                 <li>
                                     <a class="dropdown-item" href="/perfil">Perfil</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="/aluno/perfil">Cadastrar Usuario</a>
+                                    <a class="dropdown-item" href="/homeadm/cadastrarusuario">Cadastrar Usuario</a>
                                 </li>
-                                <li><a class="dropdown-item" href="#">Sair</a></li>
+                                <li><a class="dropdown-item" href="/">Sair</a></li>
                             </ul>
                         </div>
                     </div>

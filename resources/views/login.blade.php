@@ -27,20 +27,22 @@
             <hr>
             <p class="fw-lighter">Preencha os campos para entrar</p>
         </form>
-        <div class="form-floating mb-3">
-            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-            <label for="floatingInput" class="text-light">User</label>
-        </div>
-        <div class="form-floating">
-            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-            <label for="floatingPassword" class="text-light">Password</label>
-        </div>
-        <div class="form-check text-start my-3">
-            <input type="checkbox" class="form-check-input" id="flexCheckDefault">
-            <label class="form-check-label" form="flexCheckDefault">Permanecer Conectado</label>
-        </div>
-        <button class="btn btn-success w-100 py-2">Entrar</button>
-        <hr>
+        <form action="">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="floatingInput" placeholder="Digite seu usuario">
+                <label for="floatingInput" class="text-light">User</label>
+            </div>
+            <div class="form-floating">
+                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <label for="floatingPassword" class="text-light">Password</label>
+            </div>
+            <div class="form-check text-start my-3">
+                <input type="checkbox" class="form-check-input" id="flexCheckDefault">
+                <label class="form-check-label" form="flexCheckDefault">Permanecer Conectado</label>
+            </div>
+            <button class="btn btn-success w-100 py-2">Entrar</button>
+            <hr>
+        </form>
         <div class="lign-items-center py-2 mt-4">
             <p class="mb-3 mb-md-0 text-dark">© 2024 Gabriel de Sousa e Victor Dias</p>
         </div>
